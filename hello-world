@@ -5,7 +5,8 @@ pipeline{
          steps{
             echo 'hello-world'
             echo 'aaa'
-            echo 'one'
+            echo 'one1'
+            echo 'two2'
             }
         }
  }       
