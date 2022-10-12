@@ -9,6 +9,7 @@ pipeline{
             echo 'two2'
             echo 'three'
             echo 'four'
+            echo 'five'
             }
         }
  }       
