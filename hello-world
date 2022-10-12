@@ -11,6 +11,7 @@ pipeline{
             echo 'four'
             echo 'five'
             echo 'six'
+            echo "seven"
             }
         }
  }       
