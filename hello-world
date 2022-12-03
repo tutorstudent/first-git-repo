@@ -6,10 +6,10 @@ pipeline{
             echo 'hello-world'
             echo 'aaa'
             echo 'one1'
-            echo 'two2'
-            echo 'three'
+            echo 'two22'
+            echo 'threee'
             echo 'four'
-            echo 'five'
+            echo 'fivee'
             echo 'sixi'
             echo "sevene"
             }
